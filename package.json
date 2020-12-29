@@ -1,0 +1,24 @@
+{
+    "name": "espresso-tutti",
+    "displayName": "Espresso Tutti",
+    "description": "",
+    "repository": "https://github.com/huytd/vscode-espresso-tutti",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "publisher": "huytd",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Espresso Tutti",
+                "uiTheme": "vs",
+                "path": "./themes/Espresso Tutti-color-theme.json"
+            }
+        ]
+    }
+}
