@@ -20,5 +20,6 @@
                 "path": "./themes/Espresso Tutti-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
